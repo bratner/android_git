@@ -1,0 +1,41 @@
+<img src="first screen.xcf" width="480" height="800" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:bratner   -->
+<area shape="rect" coords="5,483,43,543" href="1" />
+<area shape="rect" coords="53,483,91,543" href="2" />
+<area shape="rect" coords="101,483,139,543" href="3" />
+<area shape="rect" coords="149,483,187,543" href="6" />
+<area shape="rect" coords="197,483,235,543" href="5" />
+<area shape="rect" coords="245,483,283,543" href="2" />
+<area shape="rect" coords="293,483,331,543" href="7" />
+<area shape="rect" coords="341,483,379,543" href="8" />
+<area shape="rect" coords="389,483,427,543" href="9" />
+<area shape="rect" coords="437,483,475,543" href="0" />
+<area shape="rect" coords="5,562,43,622" href="@" />
+<area shape="rect" coords="53,562,91,622" href="#" />
+<area shape="rect" coords="100,562,138,622" href="%" />
+<area shape="rect" coords="149,563,187,623" href="&" />
+<area shape="rect" coords="197,563,235,623" href="*" />
+<area shape="rect" coords="245,563,283,623" href="/" />
+<area shape="rect" coords="293,563,331,623" href="-" />
+<area shape="rect" coords="341,563,379,623" href="+" />
+<area shape="rect" coords="389,563,427,623" href="(" />
+<area shape="rect" coords="436,563,474,623" href=")" />
+<area shape="rect" coords="77,644,115,704" href="?" />
+<area shape="rect" coords="125,643,163,703" href="!" />
+<area shape="rect" coords="173,642,211,702" href="\"" />
+<area shape="rect" coords="221,643,259,703" href="'" />
+<area shape="rect" coords="269,643,307,703" href=":" />
+<area shape="rect" coords="317,643,355,703" href=";" />
+<area shape="rect" coords="365,643,403,703" href="," />
+<area shape="rect" coords="6,725,90,781" href="$abc" />
+<area shape="rect" coords="107,728,294,776" href="$space" />
+<area shape="rect" coords="310,726,344,780" href="." />
+<area shape="rect" coords="417,644,471,701" href="$bksp" />
+<area shape="rect" coords="407,726,472,780" href="$go" />
+</map>

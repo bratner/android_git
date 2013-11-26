@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ChangePass!</string>
+    <string name="app_name">Cryptoid</string>
+    <string name="change_title">Change encryption password</string>
+    <string name="orig_passwd">Original password</string>
+    <string name="new_passwd">New password</string>
+    <string name="ver_password">Verify new password</string>
+    <string name="btn_done">Change</string>
+    <string name="show_passwd">Show passwords</string>
+
+</resources>
